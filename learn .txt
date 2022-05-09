@@ -1,3 +1,4 @@
 step 1 : stage files 
 step 2 : commit 
-step 3 : push 
+
+step 3 : remove step3
